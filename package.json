@@ -12,7 +12,7 @@
     "test"
   ],
   "author": "Lee Byron",
-  "contributors": "Johan Ruokangas"
+  "contributors": "Johan Ruokangas",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jozan/grunt-jest/issues"
