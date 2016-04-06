@@ -1,10 +1,10 @@
 {
-  "name": "grunt-jest",
-  "version": "0.2.0",
+  "name": "grunt-jest-no-deps",
+  "version": "0.2.1",
   "description": "Grunt task to run tests with Jest.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/leebyron/grunt-jest.git"
+    "url": "git://github.com/jozan/grunt-jest.git"
   },
   "keywords": [
     "gruntplugin",
@@ -12,12 +12,10 @@
     "test"
   ],
   "author": "Lee Byron",
+  "contributors": "Johan Ruokangas"
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leebyron/grunt-jest/issues"
+    "url": "https://github.com/jozan/grunt-jest/issues"
   },
-  "homepage": "https://github.com/leebyron/grunt-jest",
-  "peerDependencies": {
-    "jest-cli": "^0.7.0"
-  }
+  "homepage": "https://github.com/jozan/grunt-jest"
 }
